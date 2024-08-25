@@ -57,7 +57,7 @@ In this project, I built a Docker image for a school website. The Docker image c
 - **Website Snapshot**:
   - Below is a snapshot of the HTML page that appears when you run the Docker image:
 
-  ![Website Snapshot](website_snapshot.png)
+  ![Website Snapshot](Website snapshot.png)
 
 ---
 
