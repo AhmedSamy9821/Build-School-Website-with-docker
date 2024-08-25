@@ -14,11 +14,7 @@ In this project, I built a Docker image for a school website. The Docker image c
      ```bash
      git clone https://github.com/MenaMagdyHalem/Course-Docker.git
      ```
-   - Navigate to the project directory:
-     ```bash
-     cd Course-Docker
-     ```
-
+   
 2. **Create Dockerfile**:
    - Create a Dockerfile like in this repository.
 
