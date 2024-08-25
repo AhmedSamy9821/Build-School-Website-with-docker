@@ -59,6 +59,3 @@ In this project, I built a Docker image for a school website. The Docker image c
 
   ![Website Snapshot](Website-snapshot.png)
 
----
-
-This README file provides a clear and concise description of your project, including all the steps needed to build, run, and deploy the Docker image for the school website.
